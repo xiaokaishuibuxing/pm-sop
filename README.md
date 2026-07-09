@@ -1,12 +1,18 @@
 # pm-sop
 
+[![GitHub release (latest)](https://img.shields.io/github/v/release/xiaokaishuibuxing/pm-sop?label=release&color=blue)](https://github.com/xiaokaishuibuxing/pm-sop/releases)
+[![GitHub License](https://img.shields.io/github/license/xiaokaishuibuxing/pm-sop?color=blue)](./LICENSE)
+[![GitHub last commit](https://img.shields.io/github/last-commit/xiaokaishuibuxing/pm-sop?color=blue)](https://github.com/xiaokaishuibuxing/pm-sop/commits/main)
+[![GitHub repo size](https://img.shields.io/github/repo-size/xiaokaishuibuxing/pm-sop?color=blue)](https://github.com/xiaokaishuibuxing/pm-sop)
+[![GitHub stars](https://img.shields.io/github/stars/xiaokaishuibuxing/pm-sop?color=blue)](https://github.com/xiaokaishuibuxing/pm-sop/stargazers)
+
 > 产品经理端到端标准作业流程（SOP）引擎 —— 把「写 PRD / 排优先级 / 做路线图 / 设计指标 / 灰度发布 / 向上汇报」从一份文档变成可触发、可校验、带质量门禁的工作伙伴。
 
 ## 快速链接
 
 - 🏠 仓库主页：https://github.com/xiaokaishuibuxing/pm-sop
 - 🚀 v1.0.0 Release：https://github.com/xiaokaishuibuxing/pm-sop/releases/tag/v1.0.0
-- 📦 源码下载（zip）：https://github.com/xiaokaishuibuxing/pm-sop/archive/refs/tags/v1.0.0.zip
+- 📦 源码下载（v1.0.0.zip）：https://github.com/xiaokaishuibuxing/pm-sop/releases/download/v1.0.0/pm-sop-v1.0.0.zip
 
 ## 它解决什么
 
