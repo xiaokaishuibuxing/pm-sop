@@ -76,6 +76,8 @@ git clone git@github.com:xiaokaishuibuxing/pm-sop.git ~/.workbuddy/skills/pm-sop
 - 「为这个功能建一套指标体系」
 - 「给 CEO 写一页纸产品汇报」
 
+> 完整调用指令与意图示例，见 [USAGE.md](./USAGE.md)。
+
 ## 快速上手示例
 
 **示例 1 · 写 PRD**
